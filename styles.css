@@ -1,6 +1,10 @@
 body{
     text-align: center;
     background-color: black;
+    font-family: "Vollkorn", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 img{
     height: 150px;
@@ -88,3 +92,4 @@ p{
     color: whitesmoke;
     text-shadow: 1px 0px black;
 }
+ 
