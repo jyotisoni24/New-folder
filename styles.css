@@ -24,10 +24,12 @@ img{
 }
 h1{
     color: whitesmoke;
+    margin-bottom: 0;
 }
 h2{
+    margin-top: 0;
     color: rgb(173, 255, 47);
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 p{
     padding-bottom: 10px;
